@@ -1,6 +1,6 @@
 package com.sobolev.userapp_infotecs_25.data.network
 
-import com.sobolev.usersapp.data.network.dto.UserResponse
+import com.sobolev.userapp_infotecs_25.data.network.dto.UserResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
 
