@@ -1,4 +1,4 @@
-package com.sobolev.userapp_infotecs_25.ui.theme
+package com.sobolev.userapp_infotecs_25.presentation.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -11,21 +11,14 @@ import androidx.compose.ui.platform.LocalContext
 
 
 private val LightColorScheme = lightColorScheme(
-    primary = Purple40,
-    secondary = PurpleGrey40,
-    tertiary = Pink40
-
-    /* Other default colors to override
-    background = Color(0xFFFFFBFE),
-    surface = Color(0xFFFFFBFE),
-    onPrimary = Color.White,
-    onSecondary = Color.White,
-    onTertiary = Color.White,
-    onBackground = Color(0xFF1C1B1F),
-    onSurface = Color(0xFF1C1B1F),
-    */
+    primary = Brown,
+    onPrimary = White,
+    background = White,
+    onBackground = Grey300,
+    surface = Grey100,
+    onSurface = Grey300,
+    onSurfaceVariant = Grey200,
 )
-
 @Composable
 fun UserApp_infoTecs_25Theme(
     darkTheme: Boolean = isSystemInDarkTheme(),
