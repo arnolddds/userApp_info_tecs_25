@@ -80,10 +80,12 @@ dependencies {
     implementation(libs.material3)
     implementation(libs.androidx.material3.v121)
     // Unit testing
+    // Unit testing
     testImplementation(libs.junit)
     testImplementation(libs.kotlinx.coroutines.test)
     testImplementation(libs.mockk)
     testImplementation(libs.turbine)
     testImplementation(libs.androidx.core.testing)
+    implementation(kotlin("test"))
 
 }
