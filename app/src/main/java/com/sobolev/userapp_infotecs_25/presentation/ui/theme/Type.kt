@@ -1,4 +1,4 @@
-package com.sobolev.userapp_infotecs_25.ui.theme
+package com.sobolev.userapp_infotecs_25.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

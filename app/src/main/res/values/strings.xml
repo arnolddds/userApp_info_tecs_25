@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">userApp_infoTecs_25</string>
+    <string name="user_details">User details</string>
+    <string name="back">Back</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="age_years">Age: %1$d years</string>
+
+    <string name="contact_info">Contact Information</string>
+    <string name="email">Email</string>
+    <string name="no_email_app">No email app found</string>
+    <string name="phone">Phone</string>
+    <string name="no_phone_app">No phone app found</string>
+
+    <string name="address">Address</string>
+    <string name="no_map_app">No map app found</string>
+    <string name="city">City</string>
+    <string name="state_country">State/Country</string>
+    <string name="postcode">Postcode</string>
+
+    <string name="additional_info">Additional Info</string>
+    <string name="gender">Gender</string>
+    <string name="nationality">Nationality</string>
+    <string name="registered">Registered</string>
+
+    <string name="error">Error</string>
+    <string name="failed_to_load_user">Failed to load user</string>
+    <string name="ok">OK</string>
+
+    <string name="all_users">All users</string>
+    <string name="try_restart_or_check_connection">Try restarting the application or check your internet connection.</string>
+
+
 </resources>
